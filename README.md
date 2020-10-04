@@ -58,29 +58,28 @@ Roll the dice to see who goes first. This highest roll begins the game
 5. As a user, I must be able to create a bank and identify one player to be the banker. 
 
 #### Milestone 1.0
-Iteration # 1 [Task 1]
-######################
+#### Iteration # 1 [Task 1]
+
 As a user, I can see a welcome page when I first logged on. The welcome page allows me to sign in or register.
-- Create the home app[front page] for the monopoly application [HTML, CSS, Bootstrap(http://getbootstrap.com/)
-- We are going to use flask to host the web application
+- Create the home app[front page] for the monopoly application [HTML, CSS, Bootstrap(http://getbootstrap.com/
 - We should be able to test the home page by accessing the URL http://<name>:<port>
 - Create the following pages:
 	- Signup page [signup.html][userame, email & password]
 	- Login page [login.html][username & password]
 	- set the virtualEnv
-Iteration # 2 [Task 2]
-######################
+#### Iteration # 2 [Task 2]
+
 - Our information store is going to be SQLAlchemy [ User information storage as well as the game information]
 - Create a database and populate users [Testing]
 
-Iteration # 3 [ Task 3]
-#######################
+#### Iteration # 3 [ Task 3]
+
 As a user, after the game start I MUST be able to enter the number of players [between 2 and 4]. 
 If I press Cancel, then I MUST be able to exit the game.
 - create the logic to support this capability in py.
 
-Iteration # 4 [ Task 4]
-#######################
+#### Iteration # 4 [ Task 4]
+
 As a user, I must be able to pick or choose a token to represent me on the board.
 - Create / code the logic to allow the users to choose a token to represent them on th board.
 
