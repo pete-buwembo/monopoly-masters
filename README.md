@@ -62,7 +62,7 @@ Roll the dice to see who goes first. This highest roll begins the game
 
 As a user, I can see a welcome page when I first logged on. The welcome page allows me to sign in or register.
 - Create the home app[front page] for the monopoly application [HTML, CSS, Bootstrap(http://getbootstrap.com/
-- We should be able to test the home page by accessing the URL http://<name>:<port>
+- We should be able to test the home page by accessing the URL http://localhost:5000
 - Create the following pages:
 	- Signup page [signup.html][userame, email & password]
 	- Login page [login.html][username & password]
