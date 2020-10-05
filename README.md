@@ -57,7 +57,9 @@ Roll the dice to see who goes first. This highest roll begins the game
 ##### 5 days, priority 40
 5. As a user, I must be able to create a bank and identify one player to be the banker. 
 
-#### Milestone 1.0
+#### Milestone 1.0 
+1- How many iterations for milestone one should we have ?
+2- I'm thinking we can have these small iterations as srcum sprints for ease of task accomplishement. [Open to discussion]
 #### Iteration # 1 [Task 1]
 
 As a user, I can see a welcome page when I first logged on. The welcome page allows me to sign in or register.
