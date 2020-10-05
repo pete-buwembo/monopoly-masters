@@ -70,13 +70,14 @@ As a user, I can see a welcome page when I first logged on. The welcome page all
 #### Iteration # 2 [Task 2]
 
 - Our information store is going to be SQLAlchemy [ User information storage as well as the game information]
-- Create a database and populate users [Testing]
+- Create a database where the user information is going to be stored. 
+- Validation will be -- Adding a user to the database 
 
 #### Iteration # 3 [ Task 3]
 
 As a user, after the game start I MUST be able to enter the number of players [between 2 and 4]. 
-If I press Cancel, then I MUST be able to exit the game.
-- create the logic to support this capability in py.
+- If I press Cancel, then I MUST be able to exit the game.
+- create the logic to support this capability of a user being able to select the number of users to play a single game.
 
 #### Iteration # 4 [ Task 4]
 
