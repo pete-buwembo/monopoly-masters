@@ -27,9 +27,10 @@ Pete Buwembo, Cindy Cheng, Christine Kao, Shih Chieh Lin and Aary Sheoran
 * source bin/activate
 * git clone https://github.com/pete-buwembo/monopoly-masters.git
 * cd into monopoly-masters
-* Run python app1.py
+* export FLASK_APP=app1.py
+* export FLASK_DEBUG=True
+* flask run  or run python app1.py
 
- 
 
 #### Run script
 
