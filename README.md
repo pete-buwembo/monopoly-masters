@@ -10,7 +10,9 @@ Monopoly Masters
 
 Pete Buwembo, Cindy Cheng, Christine Kao, Shih Chieh Lin and Aary Sheoran
 
- 
+<blockquote>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+</blockquote>
 
 ### How to run the application instruction
 
