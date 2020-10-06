@@ -15,9 +15,9 @@ Pete Buwembo, Cindy Cheng, Christine Kao, Shih Chieh Lin and Aary Sheoran
 
 #### Requirements and Setup
 
-* Python 3.7
-* pip 19.0.3
-* Flask
+* Python 3.6.9
+* pip 20.2.2
+* Flask 0.12.2
 * Flask-SQLAlchemy
 * Virtual Environment 16.4.0
  
