@@ -156,7 +156,7 @@ Players who are into classic board games. New players who are looking for digita
 
 ##### Iteration 1 (2 weeks)
 
-1. Create welcome page with Django
+1. Create welcome page with Flask or Django
 
 2. Create roll dices function
 
