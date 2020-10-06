@@ -20,13 +20,21 @@ Pete Buwembo, Cindy Cheng, Christine Kao, Shih Chieh Lin and Aary Sheoran
 
 * pip 19.0.3
 
+* Flask
+
+* Flask-SQLAlchemy
+
 * Virtual Environment 16.4.0
 
  
 
 #### Run application
 
-TBD
+* virtualenv -p python3 /.
+* source bin/activate
+* git clone https://github.com/pete-buwembo/monopoly-masters.git
+* cd flask-login
+* python app1.py
 
  
 
@@ -156,7 +164,7 @@ Players who are into classic board games. New players who are looking for digita
 
 ##### Iteration 1 (2 weeks)
 
-1. Create welcome page with Flask or Django
+1. Create welcome page with Flask
 
 2. Create roll dices function
 
