@@ -33,7 +33,7 @@ Pete Buwembo, Cindy Cheng, Christine Kao, Shih Chieh Lin and Aary Sheoran
 * virtualenv -p python3 /.
 * source bin/activate
 * git clone https://github.com/pete-buwembo/monopoly-masters.git
-* cd flask-login
+* cd monopoly-masters
 * python app1.py
 
  
