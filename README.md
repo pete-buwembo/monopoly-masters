@@ -21,16 +21,15 @@ Pete Buwembo, Cindy Cheng, Christine Kao, Shih Chieh Lin and Aary Sheoran
 * Flask-SQLAlchemy
 * Virtual Environment 16.4.0
  
-#### Run application
+#### Run application instructions
 
 * virtualenv -p python3 /.
 * source bin/activate
 * git clone https://github.com/pete-buwembo/monopoly-masters.git
 * cd into monopoly-masters
-* export FLASK_APP=app1.py
-* export FLASK_DEBUG=True
-* flask run  or run python app1.py
-
+* From CLI type export FLASK_APP=app1.py
+* From CLI type export FLASK_DEBUG=True
+* From CLI type flask run  or run python app1.py
 
 #### Run script
 
