@@ -21,8 +21,7 @@ Pete Buwembo, Cindy Cheng, Christine Kao, Shih Chieh Lin and Aary Sheoran
 * Flask-SQLAlchemy
 * Virtual Environment 16.4.0
  
-#### Run application instructions
-
+#### Instructions to run the application
 * virtualenv -p python3 /.
 * source bin/activate
 * git clone https://github.com/pete-buwembo/monopoly-masters.git
