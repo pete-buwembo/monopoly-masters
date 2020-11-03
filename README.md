@@ -23,7 +23,7 @@ Pete Buwembo, Cindy Cheng, Christine Kao, Shih Chieh Lin and Aary Sheoran
 #### Instructions to run the application
 
 * git clone https://github.com/pete-buwembo/monopoly-masters.git
-* cd flask-login
+* cd monopoly-masters
 * virtualenv venv -p python3
 * source venv/bin/activate
 * pip3 install -r requirements.txt
