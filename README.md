@@ -190,7 +190,7 @@ Players who are into classic board games. New players who are looking for digita
 
 2. Linking all features of the application
 
-3. TBD
+3. Functional and User Acceptance Testing
 
  
 
