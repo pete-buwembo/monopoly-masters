@@ -36,7 +36,14 @@ TBD
 
 #### Tests
 
-Run pytest
+Run pytest by: 
+1. Open terminal, enter "pip install pytest"
+2. Create "study_pytest" folder on Desktop
+3. Create "test_name.py" file and save to study_pytest folder (for example, test_dice.py is a pytest file)
+4. In terminal window, enter "cd Desktop" 
+5. Once in Desktop, enter "cd study_pytest" in terminal window
+6. In terminal window, enter "pytest" 
+7. Wait for pytest result
 
  
 ### Application concept:
