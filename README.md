@@ -142,9 +142,6 @@ Players who are into classic board games. New players who are looking for digita
 
    - User must be able to designate one other user as banker.
 
- 
-
- 
 
 #### Milestone 1.0
 
@@ -180,21 +177,20 @@ Players who are into classic board games. New players who are looking for digita
 
 #### Milestone 2.0
 
-1. TBD
+1. Home app and database linking
 
-2. TBD
+2. Roll dices function completion [ 2-4 players]
 
-3. TBD
+2. Chest and Chance card functions demo
 
- 
 
 ##### # of Iterations for Milestone 2.0
 
-1. TBD
+1. Linking the flask app to the monoply game after a user is registered or logged in
 
-2. TBD
+2. Linking all features of the application
 
-3. TBD
+3. Functional and User Acceptance Testing
 
  
 
