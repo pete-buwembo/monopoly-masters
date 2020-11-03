@@ -186,9 +186,9 @@ Players who are into classic board games. New players who are looking for digita
 
 ##### # of Iterations for Milestone 2.0
 
-1. TBD
+1. Linking the flask app to the monoply game after a user is registered or logged in
 
-2. TBD
+2. Linking all features of the application
 
 3. TBD
 
