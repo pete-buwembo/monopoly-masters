@@ -180,13 +180,12 @@ Players who are into classic board games. New players who are looking for digita
 
 #### Milestone 2.0
 
-1. TBD
+1. Home app login and Registration 
 
-2. TBD
+2. Roll dices function demo
 
-3. TBD
+2. Chest and Chance card functions demo
 
- 
 
 ##### # of Iterations for Milestone 2.0
 
