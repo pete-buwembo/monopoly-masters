@@ -142,9 +142,6 @@ Players who are into classic board games. New players who are looking for digita
 
    - User must be able to designate one other user as banker.
 
- 
-
- 
 
 #### Milestone 1.0
 
@@ -180,9 +177,9 @@ Players who are into classic board games. New players who are looking for digita
 
 #### Milestone 2.0
 
-1. Home app login and Registration 
+1. Home app and database linking
 
-2. Roll dices function demo
+2. Roll dices function completion [ 2-4 players]
 
 2. Chest and Chance card functions demo
 
