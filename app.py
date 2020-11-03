@@ -21,7 +21,7 @@ def index():
     if session.get('logged_in'):
         return render_template('home.html')
     else:
-        return render_template('index.html', message="Hello!")
+        return render_template('index.html', message="Welcome to Monopoly Masters!")
 
 
 @app.route('/register/', methods=['GET', 'POST'])
