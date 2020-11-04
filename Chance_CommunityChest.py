@@ -1,3 +1,9 @@
+# The number of squares on the board
+nsquares = 40
+
+# A variable to hold the current position
+currentPosition = 0
+
 class MonopolySimulation:
     def __init__(self):
 
