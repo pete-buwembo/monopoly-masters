@@ -9,6 +9,7 @@ Monopoly Masters
 
 Pete Buwembo, Cindy Cheng, Christine Kao, Shih Chieh Lin and Aary Sheoran
 
+### November 3, 2020 Slide Deck link: https://docs.google.com/presentation/d/1_iKEWX8EElyx1-7d6KfkixPc8DYAO7kmoEqaD10auKo/edit#slide=id.p
 
 ### How to run the application instruction
 
@@ -179,7 +180,7 @@ Players who are into classic board games. New players who are looking for digita
 
 1. Home app and database linking
 
-2. Roll dices function completion [ 2-4 players]
+2. Roll dices function completion [2-4 players]
 
 2. Chest and Chance card functions demo
 
@@ -196,6 +197,6 @@ Players who are into classic board games. New players who are looking for digita
 
 ### Velocity
 
-Timeline: 20 days until Milestone 1.0 is due, xx days until Milestone 2.0 is due
+Timeline: 20 days until Milestone 1.0 is due, 20 days until Milestone 2.0 is due
 
 Velocity: 30%
