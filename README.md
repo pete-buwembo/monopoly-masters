@@ -48,7 +48,7 @@ Run pytest by:
 7. Enter "$ ls" to see the test files
 8. Enter "$ pytest --emoji" to run pytest
 
-Pytest results: 15 failed and 15 passed
+   Pytest results: 15 failed and 15 passed
 
 
  
