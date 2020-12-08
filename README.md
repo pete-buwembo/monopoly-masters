@@ -31,17 +31,14 @@ https://docs.google.com/presentation/d/1_iKEWX8EElyx1-7d6KfkixPc8DYAO7kmoEqaD10a
 * pip3 install -r requirements.txt
 * python3 app.py
 
-#### Run script
-
-TBD
 
 
 #### Tests
 
 Run pytest by: 
 1. From the main GitHub repo (https://github.com/pete-buwembo/monopoly-masters.git), go to Code and download zipfile
-2. Go to the Download Folder, unzip the monopoly masters masters folder
-3. Find the project_pytest folder and drag to Desktop
+2. Go to the Download Folder, unzip the monopoly masters master folder
+3. Inside the master folder, find the project_pytest folder and drag to Desktop
 4. Open terminal window, install pytest by entering "$ pip install pytest" 
 5. Enter "$ cd desktop" to go to Desktop
 6. Enter "$ cd project_pytest" to go to project_pytest folder on Desktop
@@ -175,9 +172,9 @@ Players who are into classic board games. New players who are looking for digita
 
 1. Link welcome page & Login to database - Done
 
-2. Test roll dices function
+2. Test roll dices function - Done
 
-3. Test card functions
+3. Test card functions - Done
 
  
 
@@ -185,9 +182,9 @@ Players who are into classic board games. New players who are looking for digita
 
 1. Home app and database linking
 
-2. Roll dices function completion [2-4 players]
+2. Roll dices function completion [2-4 players] - Done
 
-2. Chest and Chance card functions demo
+2. Chest and Chance card functions demo - Done
 
 
 ##### # of Iterations for Milestone 2.0
