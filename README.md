@@ -9,6 +9,8 @@ Monopoly Masters
 
 Pete Buwembo, Cindy Cheng, Christine Kao, Shih Chieh Lin and Aary Sheoran
 
+Click [here] for the November 3, 2020 Slide deck {https://docs.google.com/presentation/d/1_iKEWX8EElyx1-7d6KfkixPc8DYAO7kmoEqaD10auKo/edit#slide=id.p]
+
 [November 3, 2020 Slide Deck Link]
 (https://docs.google.com/presentation/d/1_iKEWX8EElyx1-7d6KfkixPc8DYAO7kmoEqaD10auKo/edit#slide=id.p)
 
