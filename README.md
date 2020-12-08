@@ -39,13 +39,16 @@ TBD
 #### Tests
 
 Run pytest by: 
-1. Go to 
-2. Create "study_pytest" folder on Desktop
-3. Create "test_name.py" file and save to study_pytest folder (for example, test_dice.py is a pytest file)
-4. In terminal window, enter "cd Desktop" 
-5. Once in Desktop, enter "cd study_pytest" in terminal window
-6. In terminal window, enter "pytest" 
-7. Wait for pytest result
+1. From the main GitHub repo (https://github.com/pete-buwembo/monopoly-masters.git), go to Code and download zipfile
+2. Go to the Download Folder, unzip the monopoly masters masters folder
+3. Find the project_pytest folder and drag to Desktop
+4. Open terminal window, install pytest by entering "$ pip install pytest" 
+5. Enter "$ cd desktop" to go to Desktop
+6. Enter "$ cd project_pytest" to go to project_pytest folder on Desktop
+7. Enter "$ ls" to see the test files
+8. Enter "$ pytest --emoji" to run pytest
+** Pytest results: 15 failed and 15 passed **
+
 
  
 ### Application concept:
@@ -53,7 +56,7 @@ Run pytest by:
 We are building a virtual version of the popular board game Monopoly, to be played by between 2 and 4 players through python. During the quarantine, this game is a fun but socially distanced way to socialize with friends. Using randomness generators and graphical interfaces within python, we can create a virtual simulation of the game that stays true to the original while being quicker and easier.
 
  
-
+ 
 ### Stakeholders
 
 Players who are into classic board games. New players who are looking for digital board games to play and also spend time with their friends.
