@@ -42,7 +42,7 @@ App Home   | ![](https://github.com/pete-buwembo/monopoly-masters/blob/master/te
 #### Login Page
 Header | Image
 -------|---------------
-Login Page  | ![](https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/login.jpg) | 
+Login Page  | ![](https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/Login.jpg) | 
 
 #### Tests
 
