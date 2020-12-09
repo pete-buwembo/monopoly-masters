@@ -58,16 +58,16 @@ Run pytest by:
 6. Enter "$ cd project_pytest" to go to project_pytest folder on Desktop
 7. Enter "$ ls" to see the test files
 8. Enter "$ pytest --emoji" to run pytest
-![Pytest result](https://github.com/pete-buwembo/monopoly-masters/blob/master/pytest_results/pytest_emoji.png)
-   Pytest result shows 15 fail and 15 passed functions
+![Pytest result](https://github.com/pete-buwembo/monopoly-masters/blob/master/pytest_screenshots/pytest_result.png)
+   Pytest result shows 15 passed and 15 xfailed tests 
 
 
 Run pytest coverage by: 
 1. Install pytest coverage by "$ pip install pytest-cov"
 2. Once installed, run coverage by entering "coverage run -m pytest"
 3. When the pytest result shows, enter "coverage report" to determine coverage
-![Pytest coverage](https://github.com/pete-buwembo/monopoly-masters/blob/master/pytest_results/pytest_coverage.png)
-   Pytest coverage = 100%
+![Pytest coverage](https://github.com/pete-buwembo/monopoly-masters/blob/master/pytest_screenshots/pytest_coverage.png)
+   Pytest coverage is 100%
  
  
 ### Application concept:
