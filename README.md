@@ -57,7 +57,7 @@ Run pytest by:
 5. Enter "$ cd desktop" to go to Desktop
 6. Enter "$ cd project_pytest" to go to project_pytest folder on Desktop
 7. Enter "$ ls" to see the test files
-8. Install pytest emoji plugin by entering "pip install pytest-emoji"
+8. Install pytest emoji plugin by entering "$ pip install pytest-emoji"
 9. Enter "$ pytest --emoji" to run pytest
 ![Pytest result](https://github.com/pete-buwembo/monopoly-masters/blob/master/pytest_screenshots/pytest_result.png)
 Pytest result shows 15 passed and 15 xfailed tests 
