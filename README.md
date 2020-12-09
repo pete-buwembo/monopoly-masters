@@ -36,9 +36,11 @@ December 8, 2020 Monopoly Prototype: https://marvelapp.com/prototype/13cd9bc4)
 #### What the application will look like:
 Header | Image
 -------|---------------
-App Home   | ![](https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/home.jpg) | Header | Image
+App Home   | ![](https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/home.jpg) | 
+
+Header | Image
 -------|---------------
-App Home   | ![](https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/login.jpg) | 
+Login Landing  | ![](https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/login.jpg) | 
 
 #### Tests
 
