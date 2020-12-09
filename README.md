@@ -33,8 +33,8 @@ December 8, 2020 Monopoly Prototype: https://marvelapp.com/prototype/13cd9bc4)
 * pip3 install -r requirements.txt
 * python3 app.py
 
-#### What the application will look like:
-#### Home App
+#### What the application will look like from Login to Gameboard after the setup:
+
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 <img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/home.jpg" width="700">  | <img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/Login.jpg" width="700">
