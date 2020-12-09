@@ -33,7 +33,8 @@ December 8, 2020 Monopoly Prototype: https://marvelapp.com/prototype/13cd9bc4)
 * pip3 install -r requirements.txt
 * python3 app.py
 
-
+############ What the app looks like
+![](https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/home.jpg)
 
 #### Tests
 
