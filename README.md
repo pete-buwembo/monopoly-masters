@@ -204,3 +204,14 @@ Players who are into classic board games. New players who are looking for digita
 Timeline: 20 days until Milestone 1.0 is due, 20 days until Milestone 2.0 is due
 
 Velocity: 30%
+
+##### # Lessons Learned
+1. We learned how to use flask and python integration as a simple and easy way to setup web apps for testing
+2. Learned using Github as the primary Source Control Management system
+3. We also learned some Devlopment and Scrum concepts which we used during our project development.
+   - Leaned to use Trello and creation of burndown charts as we tracked progress of the project.
+   
+4. We have learned that everything takes longer than you think -  Especially in programming. It is hard to estimate
+how much time a feature will take even if everything goes smoothly. But when developing software, it is quite common 
+to run in to unexpected problems: a simple merge turns out to cause a subtle bug, an upgrade of a framework means some 
+functions must be changed or an API call doesn’t work as promised.
