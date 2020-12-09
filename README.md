@@ -64,7 +64,7 @@ Pytest result shows 15 passed and 15 xfailed tests
 
 
 Run pytest coverage by: 
-1. Install pytest coverage by "$ pip install pytest-cov"
+1. Install pytest coverage by entering "$ pip install pytest-cov"
 2. Once installed, run coverage by entering "coverage run -m pytest"
 3. When the pytest result shows, enter "coverage report" to determine coverage
 ![Pytest coverage](https://github.com/pete-buwembo/monopoly-masters/blob/master/pytest_screenshots/pytest_coverage.png)
