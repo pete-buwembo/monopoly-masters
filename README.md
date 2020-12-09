@@ -34,13 +34,15 @@ December 8, 2020 Monopoly Prototype: https://marvelapp.com/prototype/13cd9bc4)
 * python3 app.py
 
 #### What the application will look like:
+#### Home App
 Header | Image
 -------|---------------
 App Home   | ![](https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/home.jpg) | 
 
+#### Login Page
 Header | Image
 -------|---------------
-Login Landing  | ![](https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/login.jpg) | 
+Login Page  | ![](https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/login.jpg) | 
 
 #### Tests
 
