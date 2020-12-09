@@ -35,20 +35,12 @@ December 8, 2020 Monopoly Prototype: https://marvelapp.com/prototype/13cd9bc4)
 
 #### What the application will look like:
 #### Home App
-
-
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-<img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/home.jpg" width="500">  | <img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/Login.jpg" width="500">
-
-Header | Image
--------|---------------
-App Home   | ![](https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/home.jpg) | 
+<img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/home.jpg" width="700">  | <img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/Login.jpg" width="700">
 
 #### Login Page
-Header | Image
--------|---------------
-Login Page  | ![](https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/Login.jpg) | 
+
 
 #### Tests
 
