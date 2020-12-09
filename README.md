@@ -205,7 +205,7 @@ Timeline: 20 days until Milestone 1.0 is due, 20 days until Milestone 2.0 is due
 
 Velocity: 30%
 
-##### # Lessons Learned
+###### Lessons Learned
 1. We learned how to use flask and python integration as a simple and easy way to setup web apps for testing
 2. Learned using Github as the primary Source Control Management system
 3. We also learned some Devlopment and Scrum concepts which we used during our project development.
