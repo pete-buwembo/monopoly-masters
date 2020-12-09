@@ -54,7 +54,14 @@ Run pytest by:
 7. Enter "$ ls" to see the test files
 8. Enter "$ pytest --emoji" to run pytest
 
-   Pytest results: 15 failed and 15 passed
+Pytest results: 15 failed and 15 passed
+
+Run pytest coverage by: 
+1. Install pytest coverage by "$ pip install pytest-cov"
+2. Once installed, run coverage by entering "coverage run -m pytest"
+3. When the pytest result shows, enter "coverage report" to determine coverage
+
+Pytest coverage is 100%
 
 
  
