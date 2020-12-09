@@ -33,8 +33,8 @@ December 8, 2020 Monopoly Prototype: https://marvelapp.com/prototype/13cd9bc4)
 * pip3 install -r requirements.txt
 * python3 app.py
 
-#### What the application will look like from Login to Gameboard after the setup:
-
+#### What the application will look like:
+#### Home App
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 <img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/home.jpg" width="700">  | <img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/Login.jpg" width="700">
@@ -44,7 +44,7 @@ Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 <img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/Enter-name.jpg" width="700">  | <img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/configure-profile.jpg" width="700">
 
-<img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/monopoly-board.jpg" width="700">
+<img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/monopoly-board.jpg" width="800">
 
 
 #### Tests
@@ -58,17 +58,14 @@ Run pytest by:
 6. Enter "$ cd project_pytest" to go to project_pytest folder on Desktop
 7. Enter "$ ls" to see the test files
 8. Enter "$ pytest --emoji" to run pytest
+![Pytest result](https://github.com/pete-buwembo/monopoly-masters/blob/master/pytest_results/pytest_emoji.png)
 
-Pytest results: 15 failed and 15 passed
 
 Run pytest coverage by: 
 1. Install pytest coverage by "$ pip install pytest-cov"
 2. Once installed, run coverage by entering "coverage run -m pytest"
 3. When the pytest result shows, enter "coverage report" to determine coverage
-
-Pytest coverage is 100%
-
-
+![Pytest coverage](https://github.com/pete-buwembo/monopoly-masters/blob/master/pytest_results/pytest_coverage.png)
  
 ### Application concept:
 
