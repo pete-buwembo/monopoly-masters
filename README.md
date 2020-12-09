@@ -37,12 +37,12 @@ December 8, 2020 Monopoly Prototype: https://marvelapp.com/prototype/13cd9bc4)
 #### Home App
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-<img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/home.jpg" width="700">  | <img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/Login.jpg" width="700">
+<img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/home.jpg" width="800">  | <img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/Login.jpg" width="800">
 
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-<img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/Enter-name.jpg" width="700">  | <img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/configure-profile.jpg" width="700">
+<img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/Enter-name.jpg" width="800">  | <img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/configure-profile.jpg" width="800">
 
 <img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/monopoly-board.jpg" width="800">
 
