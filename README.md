@@ -39,7 +39,7 @@ December 8, 2020 Monopoly Prototype: https://marvelapp.com/prototype/13cd9bc4)
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-<img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/home.jpg" width="500">  | <img src"https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/Login.jpg" width="500">
+<img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/home.jpg" width="500">  | <img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/Login.jpg" width="500">
 
 Header | Image
 -------|---------------
