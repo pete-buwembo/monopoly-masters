@@ -59,6 +59,7 @@ Run pytest by:
 7. Enter "$ ls" to see the test files
 8. Enter "$ pytest --emoji" to run pytest
 ![Pytest result](https://github.com/pete-buwembo/monopoly-masters/blob/master/pytest_results/pytest_emoji.png)
+   Pytest result shows 15 fail and 15 passed functions
 
 
 Run pytest coverage by: 
@@ -66,6 +67,8 @@ Run pytest coverage by:
 2. Once installed, run coverage by entering "coverage run -m pytest"
 3. When the pytest result shows, enter "coverage report" to determine coverage
 ![Pytest coverage](https://github.com/pete-buwembo/monopoly-masters/blob/master/pytest_results/pytest_coverage.png)
+   Pytest coverage = 100%
+ 
  
 ### Application concept:
 
