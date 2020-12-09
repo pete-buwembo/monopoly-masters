@@ -210,13 +210,13 @@ Velocity: 30%
 2. Learned using Github as the primary Source Control Management system
 3. We also learned some Devlopment and Scrum concepts which we used during our project development.
    - Leaned to use Trello and creation of burndown charts as we tracked progress of the project.   
-4. We have learned that everything takes longer than you think -  
+4. We have learned that everything takes longer than you think
    - Especially in programming. It is hard to estimate how much time a feature will take even if everything goes smoothly. 
      But when developing software, we realized that it is quite common to run in to unexpected problems: a simple merge 
      turns out to cause a major problems bug, or say in our case an upgrade of a framework meant some functions must be 
      changed or an API call doesn’t work as promised.
 5. Better Done Than Perfect
-   - To be honest, this is actually one of the first things you need to remember, even before you start your project. 
+  - To be honest, this is actually one of the first things you need to remember, even before you start your project. 
    Perfectionism is good, but in software development, it is often a serious threat. Why? Well, because your product might never 
    see the release if you will always try to make it perfect and make last-minute adjustments. Forget it. 
    Remember the first rule – start small and then extend. Build an MVP (Minimum Viable Product) and release it so it can test 
