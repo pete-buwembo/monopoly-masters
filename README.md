@@ -44,6 +44,8 @@ Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 <img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/Enter-name.jpg" width="700">  | <img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/configure-profile.jpg" width="700">
 
+<img src="https://github.com/pete-buwembo/monopoly-masters/blob/master/templates/monopoly-board.jpg" width="1000">
+
 
 #### Tests
 
