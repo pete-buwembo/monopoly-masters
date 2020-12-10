@@ -60,7 +60,7 @@ Run pytest by:
 8. Install pytest emoji plugin by entering "$ pip install pytest-emoji"
 9. Enter "$ pytest --emoji" to run pytest
 ![Pytest result](https://github.com/pete-buwembo/monopoly-masters/blob/master/pytest_screenshots/pytest_result.png)
-Pytest result shows 15 passed and 15 xfailed tests 
+Pytest result shows 19 passed and 15 xfailed tests 
 
 
 Run pytest coverage by: 
@@ -68,7 +68,7 @@ Run pytest coverage by:
 2. Once installed, run coverage by entering "coverage run -m pytest"
 3. When the pytest result shows, enter "coverage report" to determine coverage
 ![Pytest coverage](https://github.com/pete-buwembo/monopoly-masters/blob/master/pytest_screenshots/pytest_coverage.png)
-Pytest coverage is 100%
+Pytest coverage is 98%
  
  
 ### Application concept:
