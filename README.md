@@ -68,6 +68,9 @@ Run pytest coverage by:
 2. Once installed, run coverage by entering "coverage run -m pytest"
 3. When the pytest result shows, enter "coverage report" to determine coverage
 ![Pytest coverage](https://github.com/pete-buwembo/monopoly-masters/blob/master/pytest_screenshots/pytest_coverage.png)
+4. To get html report, enter "$ coverage html" 
+5. Inside the project_pytest folder, find the "htmlcov" subfolder. Once found, look inside the subfolder for the index.html file to locate the .py file where missing lines are.  The missing lines are highlighed in red.  
+![Missing lines]
 Pytest coverage is 98%
  
  
