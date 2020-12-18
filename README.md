@@ -52,7 +52,7 @@ Solarized dark             |  Solarized Ocean
 Run pytest by: 
 1. From the main GitHub repo (https://github.com/pete-buwembo/monopoly-masters.git), go to Code and download zipfile
 2. Go to the Download Folder, unzip the monopoly masters master folder
-3. Inside the master folder, find the project_pytest folder and drag to Desktop
+3. Inside the master folder, find the "project_pytest" folder and drag to Desktop
 4. Open terminal window, install pytest by entering "$ pip install pytest" 
 5. Enter "$ cd desktop" to go to Desktop
 6. Enter "$ cd project_pytest" to go to project_pytest folder on Desktop
@@ -69,7 +69,7 @@ Run pytest coverage by:
 3. When the pytest result shows, enter "coverage report" to determine coverage
 ![Pytest coverage](https://github.com/pete-buwembo/monopoly-masters/blob/master/pytest_screenshots/pytest_coverage.png)
 4. To get html report, enter "$ coverage html" 
-5. Inside the project_pytest folder, find the "htmlcov" subfolder. Once found, look inside the subfolder for the index.html file to locate the .py file where missing lines are.  The missing lines are highlighed in red.  
+5. Inside the project_pytest folder, find the "htmlcov" subfolder. Once found, look inside the subfolder for the "index.html" file to locate the test file where the missing lines are.  The missing lines are highlighed in red.  
 ![Missing lines](https://github.com/pete-buwembo/monopoly-masters/blob/master/pytest_screenshots/coverage_html.png)
 Pytest coverage is 98%
  
